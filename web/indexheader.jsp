@@ -34,8 +34,8 @@
 			<li><a href="#"><span>Contact Us</span></a></li>
 			<li><span>Login</span>
 				<ul>
-					<li class="first"> <a href="candidatelogin.jsp">Candidate Login</a> </li>
-					<li class="last"> <a href="recruiterlogin.jsp">Recruiter Login</a> </li>
+					<li class="first"> <a href="login.jsp?acc=Company">Company Login</a> </li>
+					<li class="last"> <a href="login.jsp?acc=Customer">Customer Login</a> </li>
 				</ul>
 			</li>
 		</ul>
