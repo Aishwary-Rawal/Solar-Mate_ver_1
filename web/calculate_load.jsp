@@ -4,9 +4,10 @@
 		<div id="">
 			<div class="contentbg">
 				<div class="post">
-					<h2 class="" align="middle">Calculate Load</h2>
+					<h2 class="" align-text="middle">Calculate Load</h2>
+                                        <p>**Note- Enter readings in KW or KWH</p>
 					<div class="entry">
-
+<div id="splash"><img src="images/electricitybill.PNG" width="600" height="610" alt="" /></div>
 <form action="calculate_load_db.jsp" align="middle">
 <p style="font-size : 16px;">Enter Sanction Load</p>
             <input style="height:30px; width:300px;" required type="text" name="sanction_load" placeholder="Enter Sanction Load">
