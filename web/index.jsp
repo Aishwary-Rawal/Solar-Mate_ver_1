@@ -1,8 +1,5 @@
 <%@include file="indexheader.jsp" %>
 
- 
-      
-
 <div class="row">
   <div class="column" style="background-color:">
       <div style = "position:relative; left:200px; top:100px;">
@@ -10,10 +7,10 @@
     <h1 style=font-size:80px>Welcome To</h1>
     <h1 style=font-size:150px>Solar Mate</h1>
     
-  <form >   
+  <form>   
     <input id="shadow" type="text" placeholder=" Search Company" name="search" size="65">   
     <button type="submit" style="height: 35px; width: 100px; left: 250; top: 225;font-face: 'Comic Sans MS'; font-size: larger; color: teal; background-color: #FFFFFF; border: 3pt ridge lightgrey">SEARCH</button>   
-    </form>  
+  </form>  
   <br><br>
   <a href="#">Contact Us</a> 
       </div>
@@ -25,10 +22,6 @@
     
 
   </div>
-
-	
-	
-		
 		<div style="clear: both;">&nbsp;</div>
 	
 	<!-- end #page -->
