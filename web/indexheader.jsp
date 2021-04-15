@@ -30,8 +30,8 @@
 					<li class="last"> <a href="recruiter.jsp">Recruiter Registration</a> </li>
 				</ul>
 			</li>
-			<li><a href="#"><span>About Us</span></a></li>
-			<li><a href="#"><span>Contact Us</span></a></li>
+			<li><a href="AboutUs.jsp"><span>About Us</span></a></li>
+			<li><a href="contact_us.jsp"><span>Contact Us</span></a></li>
 			<li><span>Login</span>
 				<ul>
 					<li class="first"> <a href="login.jsp?acc=Company">Company Login</a> </li>
